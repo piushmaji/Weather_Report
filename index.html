@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather_App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <form class="weather_search">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="search" placeholder="Search for a city...">
+        </form>
+
+        <div class="weather_body">
+            <h1 class="city_name"></h1>
+            <p class="date_time"></p>
+
+            <div class="icon">
+                <p class="weather_forecast"></p>
+                <div class="weather_icon">
+                </div>
+            </div>
+            <div class="weather_temparature">
+                <p class="temparature"></p>
+            </div>
+            <div class="temp">
+                <p class="min_temp"></p>
+                <p class="max_temp"></p>
+            </div>
+        </div>
+        <section class="weather_details">
+
+            <div class="weather_card">
+                <i class="fa-solid fa-temperature-half"></i>
+                <div class="feels">
+                    <p>Feels like:</p>
+                    <p class="feels_like"></p>
+                </div>
+            </div>
+
+            <div class="weather_card">
+                <i class="fa-solid fa-droplet"></i>
+                <div class="humidity">
+                    <p>Humidity:</p>
+                    <p class="humidity_value"></p>
+                </div>
+            </div>
+
+            <div class="weather_card">
+                <i class="fa-solid fa-wind"></i>
+                <div class="wind">
+                    <p>Wind Speed:</p>
+                    <p class="wind_speed"></p>
+                </div>
+            </div>
+
+            <div class="weather_card">
+                <i class="fa-solid fa-gauge-high"></i>
+                <div class="pressure">
+                    <p>Pressure:</p>
+                    <p class="pressure_value"></p>
+                </div>
+            </div>
+    </div>
+
+    </section>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
