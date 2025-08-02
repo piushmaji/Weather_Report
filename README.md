@@ -12,7 +12,7 @@ A responsive weather application that displays real-time weather data using the 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view live](https://your-username.github.io/your-repo-name)
+👉 [Click here to view live](https://piushmaji.github.io/Weather_Report)
 
 ---
 
@@ -39,4 +39,4 @@ A responsive weather application that displays real-time weather data using the 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://https://github.com/piushmaji/Weather_Report.git
