@@ -39,4 +39,4 @@ A responsive weather application that displays real-time weather data using the 
 
 1. Clone the repository
 ```bash
-git clone https://https://github.com/piushmaji/Weather_Report.git
+git clone https://github.com/piushmaji/Weather_Report.git
