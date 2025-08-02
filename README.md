@@ -6,7 +6,7 @@ A responsive weather application that displays real-time weather data using the 
 
 ## 📸 Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](ScreenShot.png)
 
 ---
 
